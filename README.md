@@ -2,9 +2,8 @@
 
 This repository contains a custom-trained **YOLO-based object detection model** designed to identify **ripe black pepper spikes** for use in autonomous or semi-autonomous harvesting robots (such as the SR9Bot).
 
-The model is trained on real-world data collected from mobile and ESP32 cameras to ensure high accuracy in natural farm environments.
+The model is trained on real-world data collected from mobile cameras to ensure accuracy in natural farm environments.
 
----
 
 ## Features
 
@@ -14,15 +13,20 @@ The model is trained on real-world data collected from mobile and ESP32 cameras 
 - Lightweight and deployable on **Raspberry Pi** or laptops
 - Perfect for agricultural robotics / smart farming systems
 
----
 
 ## Demo
 
 **Images**
-![Ripe Black Pepper Detection](runs/pose/predict4/ripe.jpg) _Ripe pepper_ ![Ripe Black Pepper Detection](runs/pose/predict5/unripe.jpg) _Unripe pepper_
+<p align="center">
+  <img src="runs/pose/predict4/ripe.jpg" alt="Ripe pepper" width="300"/>
+  <img src="runs/pose/predict5/20250613_152909_rotm15.jpg" alt="Unripe pepper" width="250"/>
+</p>
 
-> **Demo video:**  
-> [Ripe Detection Demo](demo/ripe_demo.mp4) _Ripe peppers detected_ > [Watch Unripe Detection Demo] (demo/unripe_demo.mp4) _Unripe peppers detected_
+<p align="center"><b>Ripe (left) vs Unripe (right)</b></p>
+
+**Demo video:**  
+[Ripe Detection Demo](demo/ripe_demo.gif) _Ripe peppers detected_ 
+[Watch Unripe Detection Demo](demo/unripe_demo.gif) _Unripe peppers detected_
 
 ## License
 
