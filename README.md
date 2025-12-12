@@ -25,8 +25,11 @@ The model is trained on real-world data collected from mobile cameras to ensure 
 <p align="center"><b>Ripe (left) vs Unripe (right)</b></p>
 
 **Demo video:**  
-[Ripe Detection Demo](demo/ripe_demo.gif) _Ripe peppers detected_ 
-[Watch Unripe Detection Demo](demo/unripe_demo.gif) _Unripe peppers detected_
+![Ripe Detection Demo](demo/ripe_demo.gif)  
+*Ripe peppers detected*
+
+![Unripe Detection Demo](demo/unripe_demo.gif)  
+*Unripe peppers detected*
 
 ## License
 
