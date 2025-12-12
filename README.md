@@ -22,7 +22,7 @@ The model is trained on real-world data collected from mobile and ESP32 cameras 
 ![Ripe Black Pepper Detection](runs/pose/predict4/ripe.jpg) _Ripe pepper_ ![Ripe Black Pepper Detection](runs/pose/predict5/unripe.jpg) _Unripe pepper_
 
 > **Demo video:**  
-> [Ripe Detection Demo](demo/ripe_demo.mp4) _Ripe peppers detected_ > [Watch Unripe Detection Demo] (demo/unripe*demo.mp4) \_Unripe peppers detected*
+> [Ripe Detection Demo](demo/ripe_demo.mp4) _Ripe peppers detected_ > [Watch Unripe Detection Demo] (demo/unripe_demo.mp4) _Unripe peppers detected_
 
 ## License
 
